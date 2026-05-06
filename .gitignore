@@ -1,0 +1,13 @@
+# Exclude memory.txt as requested
+memory.txt
+
+# Visual Studio files
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.sln.docstates
+
+# Task Manager specific
+tasks.txt
